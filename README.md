@@ -6,7 +6,10 @@
   - [Binary ABC's](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Computer Hardware 101</b>
-  - [In's and out's of Computers](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [In's and Out's of Computers](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Computer Software 101</b>
+  - [Software In Computers](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Installing, updating and removing software in Windows 10 and Linux</b>
   - [Windows 10](https://github.com/joshmadakor1/Algorithms-Practice)
