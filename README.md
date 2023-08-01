@@ -2,9 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Learn Binary with me!</b>
-  - [Binary ABC's](https://github.com/joshmadakor1/Algorithms-Practice)
-
 - <b>Computer Hardware 101</b>
   - [In's and Out's of Computers](https://github.com/joshmadakor1/Algorithms-Practice)
  
