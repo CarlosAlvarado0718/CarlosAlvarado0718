@@ -1,6 +1,7 @@
 <h1>Hi, Welcome,  My name is Carlos Alvarado, I'm an <br/><a href="https://www.linkedin.com/in/carlos-alvarado-402959279/">IT Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Computer Hardware 101</b>
   - [In's and Out's of Computers](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -15,6 +16,16 @@
 - <b>Installing a Virtual Machine</b>
   - [Install VM](https://github.com/joshmadakor1/Algorithms-Practice)
 
+
+
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 <h2>📜 Certifications</h2>
 
 - [Google IT Support Professional](https://coursera.org/share/083dbf9dbe4e91ff73341501eb3d056b)
