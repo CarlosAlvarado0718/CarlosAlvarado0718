@@ -3,16 +3,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Computer Hardware 101</b>
-  - [In's and Out's of Computers](https://github.com/joshmadakor1/Algorithms-Practice)
- 
-- <b>Computer Software 101</b>
-  - [Software In Computers](https://github.com/joshmadakor1/Algorithms-Practice)
-
-- <b>Installing, updating and removing software in Windows 10 and Linux</b>
-  - [Windows 10](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Linux](https://github.com/joshmadakor1/Algorithms-Practice)
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/CarlosAlvarado0718/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CarlosAlvarado0718/osTicket-PostConfig)
