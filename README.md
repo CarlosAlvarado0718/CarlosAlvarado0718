@@ -13,7 +13,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 <h2>📜 Certifications</h2>
 
-- [Google IT Support Professional](https://coursera.org/share/083dbf9dbe4e91ff73341501eb3d056b)
+- [Google Technical Skills Certificate](https://coursera.org/share/083dbf9dbe4e91ff73341501eb3d056b)
 
 
 <h2> 🤳 Connect with me:</h2>
