@@ -9,7 +9,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CarlosAlvarado0718/osTicket_Lifecycle)
 - <b>Microsoft Azure</b>
   - [Let's Create a Virtual Machine with Microsoft Azure](https://github.com/CarlosAlvarado0718/Virtual-Machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CarlosAlvarado0718/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 <h2>📜 Certifications</h2>
 
