@@ -12,7 +12,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CarlosAlvarado0718/Configure-AD)
   - [Building Intuition for DNS](https://github.com/CarlosAlvarado0718/DNS-Intuition)
   - [Setting up Network File Shares and Permissions](https://github.com/CarlosAlvarado0718/Network-F-P)
-  - [Setup, Usage, and Explanation of Virtual Private Network(VPN)](https://github.com/CarlosAlvarado0718/VPN-NETWORK)
+  - [Setup, Usage, and Explanation of Virtual Private Network(VPN)](https://github.com/CarlosAlvarado0718/VPN-NETWORK)[Coming Soon]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)[Coming Soon]
 <h2>📜 Certifications</h2>
 
