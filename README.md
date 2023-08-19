@@ -11,6 +11,7 @@
   - [Let's Create a Virtual Machine with Microsoft Azure](https://github.com/CarlosAlvarado0718/Virtual-Machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CarlosAlvarado0718/Configure-AD)
   - [Building Intuition for DNS](https://github.com/CarlosAlvarado0718/DNS-Intuition)
+  - [Setting up Network File Shares and Permissions](https://github.com/CarlosAlvarado0718/Network-F-P)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 <h2>📜 Certifications</h2>
 
