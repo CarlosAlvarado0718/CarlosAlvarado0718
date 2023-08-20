@@ -15,7 +15,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 - <b>Virtual Private Network (VPN's)</b>
-  - [Setup, Usage, and Explanation of Virtual Private Network(VPN)](https://github.com/CarlosAlvarado0718/VPN-NETWORK)[Coming Soon]
+  - [Setup, Usage, and Explanation of Virtual Private Network(VPN)](https://github.com/CarlosAlvarado0718/VPN-NETWORK)
 <h2>📜 Certifications</h2>
 
 - [Google Technical Skills Certificate](https://coursera.org/share/083dbf9dbe4e91ff73341501eb3d056b)
