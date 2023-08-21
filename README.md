@@ -16,6 +16,12 @@
 
 - <b>Virtual Private Network (VPN's)</b>
   - [Setup, Usage, and Explanation of Virtual Private Network(VPN)](https://github.com/CarlosAlvarado0718/VPN-NETWORK)
+
+- <b>Computations</b>
+  - [Creating a folder with Windows]
+  - [Creating a folder with Linux]
+  - [Installing, Updating and Removing Software in Windows]
+  - [Installing, Updating and Removing Software in Linux]
 <h2>📜 Certifications</h2>
 
 - [Google Technical Skills Certificate](https://coursera.org/share/083dbf9dbe4e91ff73341501eb3d056b)
