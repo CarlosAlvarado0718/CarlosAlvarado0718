@@ -20,7 +20,7 @@
 - <b>Windows and Linux Software</b>
   - [Creating a folder with Windows](https://github.com/CarlosAlvarado0718/windows-folder)
   - [Creating a folder with Linux]
-  - [Installing, Updating, and Removing Software in Windows]
+  - [Installing, Updating, and Removing Software in Windows](https://github.com/CarlosAlvarado0718/windows-software)
   - [Installing, Updating, and Removing Software in Linux]
 <h2>📜 Certifications</h2>
 
